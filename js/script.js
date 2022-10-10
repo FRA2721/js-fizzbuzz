@@ -1,3 +1,6 @@
+// programmer: Francesco Cimino
+// project: fizzbuzz
+
 const row = document.querySelector(".row");
 
 // loop-numbers-1-to-100
